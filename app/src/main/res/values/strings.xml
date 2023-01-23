@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CheckBoxesAndDialogs</string>
+
+    <string name="checkBox_Apple">Apple</string>
+    <string name="checkBox_Strawberry">Strawberry</string>
+    <string name="checkBox_Blueberry">Blueberry</string>
+    <string name="checkBox_Potatoes">Potatoes</string>
+
+    <string name="priceHints">Price</string>
+    <string name="amountHints">Amount</string>
+
+    <string name="radioButton_ToastOutput">ToastOutput</string>
+    <string name="radioButton_DialogOutput">DialogOutput</string>
+
+    <string name="button_Calculate">Calculate</string>
+
+    <string name="myNameAndGroup">Герман Лухшейдер, группа 303</string>
+
+</resources>
